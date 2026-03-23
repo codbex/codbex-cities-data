@@ -9,6 +9,6 @@
         "registry": "https://npm.pkg.github.com"
     },
     "dependencies": {
-        "@codbex/codbex-cities": "^1.0.1"
+        "@codbex/codbex-cities": "^1.1.0"
     }
 }
