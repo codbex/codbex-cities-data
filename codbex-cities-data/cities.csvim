@@ -3,7 +3,7 @@
     {
       "table": "CODBEX_CITY",
       "schema": "PUBLIC",
-      "file": "/codbex-cities-data/city/cities.csv",
+      "file": "/codbex-cities-data/city/data.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -15,7 +15,7 @@
     {
       "table": "CODBEX_CITY_LANG",
       "schema": "PUBLIC",
-      "file": "/codbex-cities-data/city/cities-lang.csv",
+      "file": "/codbex-cities-data/city/lang.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
