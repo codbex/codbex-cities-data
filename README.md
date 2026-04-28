@@ -1,7 +1,14 @@
-# codbex-cities-data
-Data for Cities module
+# <img src="https://www.codbex.com/icon.svg" width="32" style="vertical-align: middle;"> codbex-cities-data
 
-## Local Development with Docker
+## 📖 Table of Contents
+* [📦 Data](#-data)
+* [🐳 Local Development with Docker](#-local-development-with-docker)
+
+## 📦 Data 
+
+* [City](https://github.com/codbex/codbex-cities-data/tree/main/codbex-cities-data/city)
+
+## 🐳 Local Development with Docker
 
 When running this project inside the codbex Atlas Docker image, you must provide authentication for installing dependencies from GitHub Packages.
 1. Create a GitHub Personal Access Token (PAT) with `read:packages` scope.
